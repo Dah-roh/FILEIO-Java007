@@ -1,0 +1,12 @@
+<<<<<<< HEAD
+<<<<<<< HEAD
+Application
+=Nio application
+=======
+Application=Nio application
+>>>>>>> 344df54547d4a182c6f18bfcd082b49d01769fb7
+=======
+Application=Nio application
+>>>>>>> 344df54547d4a182c6f18bfcd082b49d01769fb7
+port=8080
+db-name=postgresTest
